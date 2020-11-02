@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransInfo>
+  <Crop>Empty</Crop>
+  <PresetCropSize />
+  <CropEllipse>False</CropEllipse>
+  <CropUndo>False</CropUndo>
+  <WaterMark>0.100000000000001,14.9,1.25,5</WaterMark>
+  <ReProcessed>False</ReProcessed>
+  <IsEdited>True</IsEdited>
+  <doRotateNor>False</doRotateNor>
+  <RotateNor>0</RotateNor>
+  <Element>
+    <Text>
+      <Content>100</Content>
+      <Left>1705.60000610352</Left>
+      <Right>2008</Right>
+      <Top>2318.39999389648</Top>
+      <Bottom>2520</Bottom>
+      <FontSize>20</FontSize>
+    </Text>
+  </Element>
+</TransInfo>
